@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "20924254455",
+    "project_id": "sining-23ca9",
+    "storage_bucket": "sining-23ca9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20924254455:android:e26bb458a81c6b346fabf2",
+        "android_client_info": {
+          "package_name": "com.devilopers.sining"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzj_-xxbmYVDhUEMZmyFj2OBDI0eNL_Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
