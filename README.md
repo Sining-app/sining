@@ -1,7 +1,7 @@
 # sining
  
 <div align="center">
-  <img width="1000" src="./watchr.png"/>
+  <img width="1000" src="./sining.png"/>
 </div>
 <h1 align="center">Sining</h1>
 <p align="center">Sining is a digital platform designed to cater to the unique needs of both freelance performers and event organizers, offering a comprehensive solution for discovering and managing local performance opportunities. </p>
