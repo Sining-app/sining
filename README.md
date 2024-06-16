@@ -57,5 +57,7 @@
 # Team
 
 - Ira Hans Dedicatoria - Full-Stack Lead Dev, Project Manager
-- Courtney Viola - Lead Front-end Dev
+- Courtney Viola - Lead Front-end Dev, UI / UX Lead
 - Ronerr Villacarlos - Back-end Dev
+- Angel Arlene Siaboc - Front-end Dev
+- Jule Jerish Quijano - Front-end Dev
